@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/dialogflow-react.io/static/css/main.cf51a8e0.chunk.css",
-    "main.js": "/dialogflow-react.io/static/js/main.46fdaa23.chunk.js",
-    "main.js.map": "/dialogflow-react.io/static/js/main.46fdaa23.chunk.js.map",
-    "runtime-main.js": "/dialogflow-react.io/static/js/runtime-main.a4708b80.js",
-    "runtime-main.js.map": "/dialogflow-react.io/static/js/runtime-main.a4708b80.js.map",
-    "static/css/2.ae9f1eb3.chunk.css": "/dialogflow-react.io/static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.64c29976.chunk.js": "/dialogflow-react.io/static/js/2.64c29976.chunk.js",
-    "static/js/2.64c29976.chunk.js.map": "/dialogflow-react.io/static/js/2.64c29976.chunk.js.map",
-    "index.html": "/dialogflow-react.io/index.html",
-    "static/css/2.ae9f1eb3.chunk.css.map": "/dialogflow-react.io/static/css/2.ae9f1eb3.chunk.css.map",
-    "static/css/main.cf51a8e0.chunk.css.map": "/dialogflow-react.io/static/css/main.cf51a8e0.chunk.css.map",
-    "static/js/2.64c29976.chunk.js.LICENSE.txt": "/dialogflow-react.io/static/js/2.64c29976.chunk.js.LICENSE.txt"
+    "main.css": "/dialogflow-chatBot-React.io/static/css/main.cf51a8e0.chunk.css",
+    "main.js": "/dialogflow-chatBot-React.io/static/js/main.46fdaa23.chunk.js",
+    "main.js.map": "/dialogflow-chatBot-React.io/static/js/main.46fdaa23.chunk.js.map",
+    "runtime-main.js": "/dialogflow-chatBot-React.io/static/js/runtime-main.4a99bc7a.js",
+    "runtime-main.js.map": "/dialogflow-chatBot-React.io/static/js/runtime-main.4a99bc7a.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/dialogflow-chatBot-React.io/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.64c29976.chunk.js": "/dialogflow-chatBot-React.io/static/js/2.64c29976.chunk.js",
+    "static/js/2.64c29976.chunk.js.map": "/dialogflow-chatBot-React.io/static/js/2.64c29976.chunk.js.map",
+    "index.html": "/dialogflow-chatBot-React.io/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/dialogflow-chatBot-React.io/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.cf51a8e0.chunk.css.map": "/dialogflow-chatBot-React.io/static/css/main.cf51a8e0.chunk.css.map",
+    "static/js/2.64c29976.chunk.js.LICENSE.txt": "/dialogflow-chatBot-React.io/static/js/2.64c29976.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4708b80.js",
+    "static/js/runtime-main.4a99bc7a.js",
     "static/css/2.ae9f1eb3.chunk.css",
     "static/js/2.64c29976.chunk.js",
     "static/css/main.cf51a8e0.chunk.css",
